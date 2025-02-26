@@ -44,3 +44,10 @@ export default function HospitalPage() {
     </div>
   );
 }
+git init
+git add .
+git commit -m "Subiendo página del hospital"
+git branch -M main
+git remote add origin https://github.com/tuusuario/hospital-web.git
+git push -u origin main
+
